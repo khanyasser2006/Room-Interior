@@ -1,0 +1,18 @@
+{
+  "name": "AURA Architectural Atelier",
+  "short_name": "AURA",
+  "description": "Award-winning interior architecture and haute living environments in Tokyo, New York, and Milan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070707",
+  "theme_color": "#C5A880",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

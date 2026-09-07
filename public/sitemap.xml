@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://aura-design.com/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://aura-design.com/images/obsidian.jpg</image:loc>
+      <image:title>AURA Architectural Atelier - Monumental Living Spaces</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aura-design.com/about</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aura-design.com/images/atelier_studio.jpg</image:loc>
+      <image:title>AURA Working Atelier - Tokyo, New York, Milan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aura-design.com/projects</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://aura-design.com/images/obsidian.jpg</image:loc>
+      <image:title>The Obsidian Residence - Roppongi, Tokyo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aura-design.com/images/aether.jpg</image:loc>
+      <image:title>Aether Sky Penthouse - Tribeca, New York</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aura-design.com/images/project_como.jpg</image:loc>
+      <image:title>Villa Lumina on Lake Como - Bellagio, Italy</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aura-design.com/images/project_aspen.jpg</image:loc>
+      <image:title>The Alpine Monolith - Aspen, Colorado</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aura-design.com/materials</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aura-design.com/images/mat_travertine.jpg</image:loc>
+      <image:title>Silver Travertine Stone - Tivoli Quarries</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aura-design.com/images/mat_yakisugi.jpg</image:loc>
+      <image:title>Yakisugi Charred Cedar - Okayama Prefecture</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aura-design.com/services</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>

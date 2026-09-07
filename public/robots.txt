@@ -1,0 +1,24 @@
+# robots.txt for AURA Architectural & Interior Haute Living
+# https://aura-design.com
+
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: Baiduspider
+User-agent: YandexBot
+User-agent: Applebot
+Allow: /
+Allow: /images/
+Allow: /cabinet_frames_600fps/
+Disallow: /admin
+Disallow: /api/
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://aura-design.com/sitemap.xml
