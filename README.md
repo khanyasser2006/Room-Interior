@@ -126,7 +126,7 @@ http://localhost:5173
 
 ---
 
-## 🎥 Demo
+## 🎥 Video
 
 *Add a screen recording of the hero flythrough here, along with a quick look at the admin dashboard.*
 
